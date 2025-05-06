@@ -1,8 +1,3 @@
-Siap — aku bikinkan README.md versi profesional buat GitHub project berdasarkan penjelasan sistem deteksi masker wajah tadi. Nanti tinggal kamu sesuaikan nama repo dan upload filenya ke GitHub. Ini dia isi README-nya:
-
----
-
-````markdown
 # 📷 Face Mask Detection System (EfficientNetB0)
 
 Sistem deteksi masker wajah berbasis *real-time video* menggunakan webcam, OpenCV, dan model CNN EfficientNetB0. Sistem ini mampu mendeteksi wajah pada gambar video lalu mengklasifikasikan apakah seseorang:
