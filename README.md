@@ -93,7 +93,7 @@ Menggunakan arsitektur **EfficientNetB0** dengan modifikasi:
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/face-mask-detection.git
+git clone https://github.com/moryata/face-mask-detection.git
 cd face-mask-detection
 ```
 
